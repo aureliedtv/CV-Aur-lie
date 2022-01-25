@@ -1,4 +1,4 @@
-# **Aurélie Detivelle** ![Texte alternatif](/HTML/Images/DSCF8397.jpg)
+# **Aurélie Detivelle** ![Photo Aurélie Detivelle](DSCF8397.jpg)
 
 ## **Formation**
 
